@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @snehhens
 - 💞️ my Name is Sneh
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning C/C++
+- 👀 I’m programmer
+- 🌱 I’m current project : https://snehhens.github.io/amritaaura/
 - 📫 How to reach me with E-mail: snehpatel.exe@gmail.com
 
 <!---
