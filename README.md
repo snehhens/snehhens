@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @snehhens
 - 💞️ my Name is Sneh
 - 👀 I’m programmer
-- 🌱 My current project : https://stylemy.site
 - 📫 How to reach me with E-mail: snehpatel.exe@gmail.com
 
 <!---
